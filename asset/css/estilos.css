@@ -1,0 +1,37 @@
+
+
+@font-face {
+    font-family: 'SuperMario256';
+    src:  url('../font/SuperMario256.woff2') format('woff2'),
+          url('../font/SuperMario256.woff') format('woff'),
+          url('../font/SuperMario256.ttf') format('ttf');
+  }
+
+body¨{
+    font-family: 'SuperMario256', sans-serif;
+}
+
+h2{
+    font-family: 'SuperMario256', sans-serif;
+}
+
+ .bg-colorPrincipal{
+background-color: aqua;
+ }
+
+
+.btn-exterior-colorPrincipal{
+    border-color: brown;
+}
+
+.btn-exterior-colorPrincipal:hover{
+    background-color: blueviolet;
+}
+
+.bg-principal{
+    background-color: blueviolet;
+}
+
+.bg-primario{
+    background-color: blue;
+}
